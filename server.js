@@ -22,7 +22,7 @@ const VALID_TOKENS = (process.env.TOKENS || '')
 
 // URL raw github tempat script AI disimpan (SERVER-SIDE ONLY)
 const AI_SCRIPT_URL = process.env.AI_SCRIPT_URL ||
-    'https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/play_ai.lua';
+    'https://raw.githubusercontent.com/saldycatur-jpg/Itdyifitxitxiyxyioyyoxyiciyxtoohxo/refs/heads/main/Aa.lua';
 
 // Kalau false, client dapat script content langsung.
 // Kalau true, client dapat URL (kurang aman — hanya untuk debugging).
